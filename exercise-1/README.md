@@ -6,7 +6,6 @@ In your `README.md` document, put your favorite quote in a block quote, and prov
 Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 
-```
-Our heroes are people and people are flawed. Don't let that taint the thing you love.
-```
+>Our heroes are people and people are flawed. Don't let that taint the thing you love.
+
 http://www.quotationspage.com/quote/40173.html
